@@ -1,0 +1,285 @@
+a {
+  color: #f9e315;
+  text-decoration: none;
+}
+
+blockquote p, blockquote {
+  font-style: italic;
+  margin: 0px;
+  padding: 0px;
+}
+
+footer {
+  background: #24282b;
+  font-size: 14px;
+  color: #f9e315;
+}
+
+footer ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+footer nav {
+  margin-top: 5px;
+  padding-top: 0px;
+}
+
+footer p, footer ul {
+  margin: 0;
+}
+
+h1, h2, h3 {
+  font-family: "Lato", "HelveticaNeue", "Helvetica Neue", Helvetica, sans-serif;
+}
+
+h1, h2 {
+  color: #fff;
+  text-align: center;
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 30px;
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 20px;
+}
+
+h3 {
+  color: #000;
+  font-weight: 100;
+  text-align: center;
+  padding-top: 35px;
+}
+
+header, footer {
+  background: #24282b;
+  text-align: center;
+}
+
+header ul li {
+  font-size: 16px;
+  margin-right: 30px;
+}
+
+img { 
+  max-width: 100%; 
+  height: auto !important;
+}
+
+ul li {
+  display: inline;
+}
+
+ul li:first-child {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #7b8994;
+}
+
+ul li:last-child {
+  margin-right: 0;
+}
+
+.banner {
+  background: url("../images/Landing Pic.jpg") no-repeat top center;
+  background-size: cover;
+  height: 400px;
+}
+
+.benefits {
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+
+.benefits-align {
+  text-align: center;
+}
+
+.benefits-text {
+  margin-bottom: 0;
+}
+
+.blue-back {
+  background-color: #e9f5f7;
+}
+
+.color-overlay {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.5);
+}
+
+.copyright {
+  margin-top: 5px;
+}
+
+.CTA {
+  font-family: "Lato", "HelveticaNeue", "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: 400;
+  text-align: center;
+  color: #fff;
+  background-color: #0070cc;
+  display: block;
+  padding: 0 30px;
+  margin: 0 auto;
+  letter-spacing: 0;
+  border-radius: 30px;
+  border: 0;
+}
+
+.CTA:hover {
+  background-color: #448FCC;
+}
+
+.CTA.first {
+  height: 60px;
+  font-size: 25px;
+  line-height: 60px;
+  box-shadow: 0 0 7px -1px #fff;
+}
+
+.CTA.second {
+  height: 40px;
+  font-size: 20px;
+  line-height: 40px;
+  box-shadow: 0 0 3px .2px #000; 
+}
+
+.final-CTA {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.footer {
+  padding-top: 3px;
+  padding-bottom: 5px;
+}
+
+.h3-no-padding {
+  padding-top: 0;
+}
+
+.logo-nav {
+  padding-top: 2rem;
+  padding-bottom: 0;
+}
+
+.social-proof {
+  margin-bottom: 40px;
+  margin-top: 20px;
+}
+
+.user {
+  text-align: center;
+  font-size: 19px;
+}
+
+.user p {
+  margin: 0;
+}
+
+.valign {
+  display: table;
+  height: 100%;
+  width: 100%;
+}
+
+.valign-contents {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+@media (min-width: 550px) {
+
+header {
+  height: 65px;
+}
+
+header nav {
+  text-align: right;
+  margin-top: 20px;
+}
+
+.logo-nav {
+  padding: 0;
+}
+
+.logo {
+  margin-top: 7px;
+}
+
+.user {
+  float: none;
+}
+
+
+}
+
+/* h1 {
+  font-size: 70px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 52px;
+}
+
+h4 {
+  font-size: 40px;
+  margin-bottom: 12px;
+}
+
+.banner {
+  height: 800px;
+}
+
+.copyright {
+  text-align: right;
+}
+  
+.benefits-img {
+  margin-top: 30px;
+  vertical-align: middle;
+}
+
+.benefits-text {
+  padding: 0;
+  margin-bottom: 40px;
+}
+
+footer {
+  background: #24282b;
+  font-size: 14px;
+  color: #f9e315;
+  height: 30px;
+  padding-top: 22px;
+  padding-bottom: 17px;
+}
+
+.copyright {
+  text-align: right;
+}
+
+header ul li {
+  font-si
+  ze: 20px;
+  margin-right: 30px;
+}
+
+.footer {
+  
+}
+
+.final-CTA {
+  margin-top: 40px;
+  margin-bottom: 20px;
+} */
+
