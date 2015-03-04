@@ -56,8 +56,11 @@ h3 {
   font-weight: 100;
   text-align: center;
   padding-top: 35px;
+<<<<<<< HEAD
   padding-bottom: 10px;
   margin: 0;
+=======
+>>>>>>> master
 }
 
 header, footer {
@@ -156,8 +159,13 @@ ul li:last-child {
 }
 
 .final-CTA {
+<<<<<<< HEAD
   margin-top: 53px;
   margin-bottom: 27px;
+=======
+  margin-top: 40px;
+  margin-bottom: 40px;
+>>>>>>> master
 }
 
 .footer {
@@ -175,7 +183,12 @@ ul li:last-child {
 }
 
 .social-proof {
+<<<<<<< HEAD
   padding-bottom: 5px;
+=======
+  margin-bottom: 40px;
+  margin-top: 20px;
+>>>>>>> master
 }
 
 .user {
@@ -185,11 +198,14 @@ ul li:last-child {
 
 .user p {
   margin: 0;
+<<<<<<< HEAD
   text-align: center;
 }
 
 .user-name {
   padding-bottom: 40px;
+=======
+>>>>>>> master
 }
 
 .valign {
@@ -205,6 +221,7 @@ ul li:last-child {
 
 @media (min-width: 550px) {
 
+<<<<<<< HEAD
 h1 {
   font-size: 40px;
 }
@@ -215,6 +232,10 @@ h2 {
 
 h3 {
   font-size: 30px;
+=======
+header {
+  height: 65px;
+>>>>>>> master
 }
 
 header nav {
@@ -227,6 +248,7 @@ header nav {
 }
 
 .logo {
+<<<<<<< HEAD
   margin-top: 12px;
 }
 
@@ -332,6 +354,15 @@ h3 {
 .user {
   margin-top: 32px;
 }
+=======
+  margin-top: 7px;
+}
+
+.user {
+  float: none;
+}
+
+>>>>>>> master
 
 }
 
@@ -347,6 +378,14 @@ h3 {
   font-size: 52px;
 }
 
+<<<<<<< HEAD
+=======
+h4 {
+  font-size: 40px;
+  margin-bottom: 12px;
+}
+
+>>>>>>> master
 .banner {
   height: 800px;
 }
